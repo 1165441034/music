@@ -1,13 +1,1 @@
-[{
-    "name": "你就不要想起我",
-    "type": "local",
-    "author": "Npc",
-    "filename": "你就不要想起我-C哥.mp3",
-    "id": "2032046381790"
-}, {
-    "name": "忠贞",
-    "type": "local",
-    "author": "Npc",
-    "filename": "忠贞.mp3",
-    "id": "2454461328081"
-}]
+﻿[{"name":"忠贞","type":"local","author":"Npc","filename":"忠贞.mp3","id":"2454484651429"},{"name":"你就不要想起我","type":"local","author":"Npc","filename":"你就不要想起我-C哥.mp3","id":"2032035630255"}]
